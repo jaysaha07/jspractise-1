@@ -1,0 +1,28 @@
+color combination
+#000000  black 
+
+#86878b ash
+
+#ffffff white
+#ff8b38 yellow
+
+font family
+font-family: OpenSans-Bold;
+font-family: OpenSans-Regular;
+font-family: OpenSans-Semibold;
+font-family: Raleway-Bold;
+font-family: Raleway-Light;
+font-family: Raleway-Regular;
+
+
+font size
+h1 45             38         30
+
+
+
+<i class="fa-brands fa-google-plus-g s_icon"></i>
+<i class="fa-brands fa-pinterest s_icon"></i>
+<i class="fa-brands fa-instagram s_icon"></i>
+<i class="fa-brands fa-linkedin s_icon"></i>
+<i class="fa-solid fa-paper-plane s_icon"></i>
+
